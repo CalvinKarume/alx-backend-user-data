@@ -15,7 +15,7 @@ class Auth:
     """
     def require_auth(self, path: str, excluded_paths: List[str]) -> bool:
         """
-        Determines whether a given path requires authentication or not
+        Determines if a given path requires authentication or not
         Args:
             - path(str): Url path to be checked
             - excluded_paths(List of str): List of paths that do not require

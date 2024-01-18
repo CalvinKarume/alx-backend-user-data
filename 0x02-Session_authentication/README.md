@@ -1,3 +1,11 @@
+# Generally you will get to know:
+- What authentication means
+- What session authentication means
+- What Cookies are
+- How to send Cookies
+- How to parse Cookies
+
+
 # Simple API
 
 Simple HTTP API for playing with `User` model.
